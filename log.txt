@@ -1,0 +1,1000 @@
+ 1061  git status -s
+ 1062  git reset
+ 1063  git checkout f1.js
+ 1064  git add .
+ 1065  git reset f1.js
+ 1066  git reset
+ 1067  git checkout f1.js
+ 1068  git status -s
+ 1069  git add .
+ 1070  git status -s
+ 1071  git reset
+ 1072  git status -s
+ 1073  git add .
+ 1074  git checkout f1.js
+ 1075  git branch
+ 1076  git braNCH
+ 1077  git branch
+ 1078  git branch -m "Main"
+ 1079  git branch
+ 1080  git status
+ 1081  git status -s
+ 1082  git reset
+ 1083  git status
+ 1084  git status -s
+ 1085  git commit -a
+ 1086  git commit -a "3rd"
+ 1087  git commit -a
+ 1088  git status -s
+ 1089  git commit -a
+ 1090  fg
+ 1091  git log
+ 1092  fg
+ 1093  git checkout f1.js
+ 1094  git status -s
+ 1095  git add .
+ 1096  git status -s
+ 1097  git commit -a
+ 1098  git status -s
+ 1099  git checkout f1.js
+ 1100  git reset
+ 1101  git reset f1.js
+ 1102  git reset --hard
+ 1103  git branch b1
+ 1104  git checkout b1
+ 1105  git status
+ 1106  git log
+ 1107  git status -s
+ 1108  git status
+ 1109  git branch
+ 1110  git staus
+ 1111  git status
+ 1112  git status -s
+ 1113  git restore f1.js
+ 1114  git restore .
+ 1115  git reset
+ 1116  git restore
+ 1117  git restore f1.js
+ 1118  code .
+ 1119  git status -s
+ 1120  git reset
+ 1121  git revert .
+ 1122  git restore .
+ 1123  git checkout Main
+ 1124  git checkout b1 
+ 1125  git commit -a
+ 1126  git status -s
+ 1127  git checkout Main
+ 1128  git pull
+ 1129  git clone https://github.com/sunbeam-dac-mar2023/SDM.git
+ 1130  code .
+ 1131  git status -s
+ 1132  git branch
+ 1133  git checkout b1 
+ 1134  git status -s
+ 1135  git commit -a
+ 1136  git checkout b1
+ 1137  git log
+ 1138  git branch
+ 1139  git add .
+ 1140  git checkout f1.js
+ 1141  git checkout b1
+ 1142  git checkout main
+ 1143  git checkout Main
+ 1144  git status -m
+ 1145  git status -s
+ 1146  git branch
+ 1147  git commit -a
+ 1148  git checkout b1
+ 1149  git add .
+ 1150  git commit 
+ 1151  git checkout Main
+ 1152  git merge b1 
+ 1153  git checkout b1 
+ 1154  git branch
+ 1155  git merge b1 
+ 1156  git status -s
+ 1157  git add .
+ 1158  git commit
+ 1159  git merge
+ 1160  git merge b1 
+ 1161  git status -s
+ 1162  git branch'
+ 1163  git branch
+ 1164  git checkout b1 
+ 1165  git status -s
+ 1166  git commit -a
+ 1167  git merge b1 
+ 1168  git branch
+ 1169  git checkout Main
+ 1170  git checkout b1
+ 1171  git status -s
+ 1172  git checkout Main
+ 1173  git status -s
+ 1174  git merge b1
+ 1175  git status -s
+ 1176  git commit -m "merged"
+ 1177  git commit -a
+ 1178  git merge b1
+ 1179  git checkout b1 
+ 1180  git checkout Main
+ 1181  git status -s
+ 1182  git checkout b1 
+ 1183  git status -s
+ 1184  git merge b1 
+ 1185  git branch
+ 1186  git checkout Main
+ 1187  git status -s
+ 1188  git merge b1 
+ 1189  git merge .
+ 1190  git merge b1
+ 1191  git status -s
+ 1192  git checkout Main
+ 1193  git checkout b1 
+ 1194  git remote add origin https://github.com/prajyot-ghosalkar-74174/duskoder.repo.git
+ 1195  git branch
+ 1196  git push -u origin b1 
+ 1197  git push origin b1 
+ 1198  git clone https://github.com/prajyot-ghosalkar-74174/duskoder.repo.git
+ 1199  ls
+ 1200  git pull
+ 1201  git clone https://github.com/sunbeam-dac-mar2023/SDM.git
+ 1202  sudo apt-get update
+ 1203  sudo apt-install docker.io
+ 1204  sudo apt- install docker.io
+ 1205  sudo apt - install docker.io
+ 1206  docker --version
+ 1207  sudo service docker start
+ 1208  sudo docker run hello-world
+ 1209  cd /etc/docker
+ 1210  sudo vim daemon.json
+ 1211  sudo service docker restart
+ 1212  cd ~
+ 1213  sudo docker imgage pull 172.18.0.52:5000/alpine
+ 1214  sudo docker image pull 172.18.0.52:5000/alpine
+ 1215  sudo docker images
+ 1216  sudo docker image pull 172.18.0.52:5000/httpd
+ 1217  sudo docker image pull 172.18.0.52:5000/mysql
+ 1218  sudo docker image pull 172.18.0.52:5000/nginx
+ 1219  sudo docker image pull 172.18.0.52:5000/ubuntu
+ 1220  sudo docker image pull 172.18.0.52:5000/tomcat
+ 1221  sudo docker image pull 172.18.0.52:5000/hello-world
+ 1222  sudo docker image pull 172.18.0.52:5000/alpine
+ 1223  ls
+ 1224  git add .
+ 1225  git commit
+ 1226  git remote -v
+ 1227  git push origin Main
+ 1228  git push origin main
+ 1229  git branch
+ 1230  git push origin b1
+ 1231  cd ~
+ 1232  ssh -i ~/Downloads/dac-test.pem ubuntu@13.126.57.39
+ 1233  chmod 400  ~/Downloads/dac-test.pem 
+ 1234  ssh -i ~/Downloads/dac-test.pem ubuntu@13.126.57.39
+ 1235  tar -cf technews.tar *
+ 1236  scp -i ~/Downloads/dac-test.pem technews.tar ubuntu@13.126.57.39
+ 1237  scp -i ~/Downloads/dac-test.pem technews.tar ubuntu@13.126.57.39:~/
+ 1238  mkdir my_work
+ 1239  mkdir demo_deploy
+ 1240  mkdir backend
+ 1241  npm install express cors mysql2 crypto-js
+ 1242  code .
+ 1243  yarn add express
+ 1244  install yarn
+ 1245  sudo npm install -g yarn nodemon
+ 1246  sudo apt-get install yarn
+ 1247  yarn add express
+ 1248  yarn install
+ 1249  yarn add express cors mysql2
+ 1250  mysql -uroot-proot
+ 1251  mysql -uroot -proot
+ 1252  mysql -uroot -p root 
+ 1253  mysql -uroot -p
+ 1254  mkdir demo_deploy
+ 1255  ls
+ 1256  cd demo_deploy/
+ 1257  ls
+ 1258  mkdir backend
+ 1259  npm install express cors mysql2;
+ 1260  ls
+ 1261  code .
+ 1262  ls
+ 1263  cd backend/
+ 1264  ls
+ 1265  git pull
+ 1266  s
+ 1267  ls
+ 1268  cd ..
+ 1269  ls
+ 1270  cd SDM/
+ 1271  ls
+ 1272  cd day8
+ 1273  ls
+ 1274  cd notes/
+ 1275  ls
+ 1276  cd docker.md
+ 1277  open docker.md
+ 1278  open docker.pdf
+ 1279  ls
+ 1280  open 02-container.md 
+ 1281  cd ..
+ 1282  git clone https://github.com/sunbeam-dac-mar2023/SDM.git 
+ 1283  ls\
+ 1284  ls
+ 1285  cd SDM/
+ 1286  ls
+ 1287  cd day8
+ 1288  ls
+ 1289  cd  notes/
+ 1290  ls
+ 1291  open 01-images.md 
+ 1292  ls
+ 1293  cd ..
+ 1294  ls
+ 1295  cd ..
+ 1296  ls
+ 1297  cd My_work/
+ 1298  l
+ 1299  ls
+ 1300  docker images ls
+ 1301  docker image ls
+ 1302  docker imaage ls
+ 1303  docker image ls
+ 1304  sudo docker image ls
+ 1305  sudo usermod -aG docker $USER
+ 1306  newgrp docker
+ 1307  docker image ls
+ 1308  docker image inspect c1aabb73d233
+ 1309  docker container ls
+ 1310  docker container ls -la
+ 1311  docker container rm 58a0b93f6353
+ 1312  docker container ls -la
+ 1313  docker image ls
+ 1314  docker container create d140b777a247
+ 1315  docker container ls
+ 1316  docker container ls -la
+ 1317  dockerinfo
+ 1318  docker container info eeb529dfa3e2
+ 1319  docker container starteeb529dfa3e2
+ 1320  docker container start eeb529dfa3e2
+ 1321  docker container ls
+ 1322  docker container stop eeb529dfa3e2
+ 1323  docker container ls
+ 1324  docker container ls -la
+ 1325  docker container rm eeb529dfa3e2
+ 1326  docker container ls -la
+ 1327  docker image ls
+ 1328  docker container run ee38ad613bc2
+ 1329  docker image ls
+ 1330  docker container ls
+ 1331  docker container ls -la
+ 1332  $USER
+ 1333  $USER hostname
+ 1334  $USER --name
+ 1335  $USER --hostnamw
+ 1336  $USER --hostname
+ 1337  $USER name
+ 1338  $USER -a
+ 1339  docker container ls -la
+ 1340  docker container rm 3f7b16716d6c
+ 1341  docker image ls
+ 1342  docker container run 5a81c4b8502e
+ 1343  docker container ls -la
+ 1344  docker container ls
+ 1345  docker container run --name myhttpd d140b777a247
+ 1346  docker container run -d --name myhttpd d140b777a247
+ 1347  docker container ls
+ 1348  docker container ls -la
+ 1349  docker container rm b7d4144699e6
+ 1350  dokcer container run -d --name myhttpd d140b777a247
+ 1351  docker container run -d --name myhttpd d140b777a247
+ 1352  docker container ls
+ 1353  docker container rm 63df0abafa64
+ 1354  docker container rm --force 63df0abafa64
+ 1355  docker container ls
+ 1356  docker container ls -la
+ 1357  docker container rm --force 6802097fb3d3
+ 1358  docker container ls -la
+ 1359  docker container run -d --name myhttpd d140b777a247 date
+ 1360  docker container ls
+ 1361  docker container run -d --name myhttpd d140b777a247
+ 1362  docker container ls -la
+ 1363  docker container ls
+ 1364  docker container rm 6606503f5748
+ 1365  docker image ls
+ 1366  docker container run -d --name myhttpd d140b777a247
+ 1367  docker container exec d140b777a247 Date
+ 1368  docker container exec d140b777a247 date
+ 1369  docker container ls
+ 1370  docker container exec 71f4c124de41 date
+ 1371  docker container exec 71f4c124de41 ls
+ 1372  docker container exec 71f4c124de41 basg
+ 1373  docker container exec 71f4c124de41 bash
+ 1374  docker container  -it exec 71f4c124de41 bash
+ 1375  docker container  -dit exec 71f4c124de41 bash
+ 1376  docker container exec 71f4c124de41 bash
+ 1377  docker container exec -it 71f4c124de41 bash
+ 1378  docker container ls
+ 1379  docker container rm 71f4c124de41
+ 1380  docker container rm --force 71f4c124de41
+ 1381  docker image ls
+ 1382  docker container start 041315a16183
+ 1383  docker image  start 041315a16183
+ 1384  docker image  create  041315a16183
+ 1385  docker image reate 041315a16183
+ 1386  docker image create d140b777a247
+ 1387  docker container startd140b777a247
+ 1388  docker container ls
+ 1389  docker container ls -la
+ 1390  docker container start wonderful_buck
+ 1391  docker container ls
+ 1392  curl https://google.com
+ 1393  curl https://students.sunbeam.org
+ 1394  curl https://students.sunbeaminfo .org
+ 1395  curl https://students.sunbeaminfo.org
+ 1396  curl https://13.126.39.57
+ 1397  curl http://13.126.57.39
+ 1398  sudo apt  install curl  # version 7.81.0-1ubuntu1.10
+ 1399  curl http://13.126.57.39
+ 1400  docker container ls
+ 1401  docker container exec 1786459c9637 date
+ 1402  docker container exec 1786459c9637 ls
+ 1403  docker container exec -it 1786459c9637 bash
+ 1404  docker container logs 1786459c9637
+ 1405  docker container ls
+ 1406  docker container logs 1786459c9637
+ 1407  vim /etc/apache2/apache2.conf
+ 1408  cd /etc/apache2/apache2.conf
+ 1409  cd /etc/apache2/
+ 1410  ls
+ 1411  cat conf-available/
+ 1412  cd conf-available/
+ 1413  ls
+ 1414  cat javascript-common.conf 
+ 1415  cd /\
+ 1416  cd /
+ 1417  vim /etc/httpd/httpd.conf
+ 1418  docker container ls
+ 1419  docker container rm --force 17
+ 1420  docker container run -dit --name myhttpd -p 9000:80 d140b777a247
+ 1421  docker container rm --force 17
+ 1422  docker container ls
+ 1423  docker container rm --force cc0b4270aceb
+ 1424  docker container run -dit --name pra -p 9999:80 ee38ad613bc2
+ 1425  docker container inspect pra
+ 1426  docker container rm --force pra
+ 1427  docker image inspect ee38ad613bc2
+ 1428  docker container ls
+ 1429  docker container run -dit --name -p 7777:80 ee38ad613bc2
+ 1430  docker container run -dit --name pra -p 7777:80 ee38ad613bc2
+ 1431  docker container run -dit --name praj -p 7777:80 d140b777a247
+ 1432  docker container run -dit --name praj -p 7778:80 d140b777a247
+ 1433  docker container run -dit --name prajy -p 7779:80 d140b777a247
+ 1434  docker container ls
+ 1435  docker container rm --force 6adc4e698e04
+ 1436  docker container rm --force 3d7cf2116892
+ 1437  docker container ls
+ 1438  docker container run -dit --name pra -p 8080:8080 ee38ad613bc2
+ 1439  lsof -i :3306
+ 1440  lsof -i :80
+ 1441  lsof -i :7777
+ 1442  docker container ls
+ 1443  docker container rm --force pra
+ 1444  docker container ls
+ 1445  sudo lsof -i :80
+ 1446  sudo ss -tulpn
+ 1447  ls
+ 1448  cd h
+ 1449  cd home/
+ 1450  ls
+ 1451  cd prajyotg/
+ 1452  ls
+ 1453  cd DAC
+ 1454  ls
+ 1455  DevOps/
+ 1456  ls
+ 1457  cd DevOps/
+ 1458  ls
+ 1459  cd My_work/
+ 1460  ls
+ 1461  cd d8
+ 1462  ls
+ 1463  mkdir deploy_httpd
+ 1464  cd deploy_httpd/
+ 1465  ls
+ 1466  code .
+ 1467  ls
+ 1468  docker image build -t dkImage
+ 1469  docker image build -t dkimage
+ 1470  docker image build -t Dockerfile
+ 1471  ls
+ 1472  docker image build -t Dockerfile .
+ 1473  docker image build -t myimage .
+ 1474  docker image ls
+ 1475  docker image build -t myimage .
+ 1476  docker image ls
+ 1477  docker container run -d --name dk -p 7777:80 myimage
+ 1478  docker container ls
+ 1479  docker container rm --force COPY ./index.html /usr/local/apache2/htdocs/
+ 1480  docker container 
+ 1481  docker container rm --force dk
+ 1482  docker container ls
+ 1483  docker container run ls
+ 1484  ls
+ 1485  docker container build -t dkimage .
+ 1486  container image build -t dkimage .
+ 1487  docker image build -t dkimage
+ 1488  docker image build -t dkimage .
+ 1489  docker container ls
+ 1490  docker image  ls
+ 1491  docker image rm myimage
+ 1492  docker image  ls
+ 1493  docker container run -dit --name dk -p 7777:80 dk
+ 1494  docker container run -dit --name dk -p 7777:80 dkimage
+ 1495  docker container rm --force dk
+ 1496  docker image rm dk
+ 1497  docker image rm dkimage
+ 1498  docker image pull 172.18.0.52:5000/node
+ 1499  ls
+ 1500  cd ..
+ 1501  ls
+ 1502  mkdir deploy_node
+ 1503  cd deploy_
+ 1504  ls
+ 1505  cd deploy_node/
+ 1506  LS
+ 1507  ls
+ 1508  code .
+ 1509  docker image ls
+ 1510  ls
+ 1511  docker container build -t dkimage .
+ 1512  docker image  build -t dkimage .
+ 1513  docker container run -dit --name dk -p 7777:7777 dkimage
+ 1514  ls
+ 1515  cd ..
+ 1516  ls
+ 1517  mkdir deploy_mysql
+ 1518  ls
+ 1519  cd deploy_mysql/
+ 1520  docker image ls
+ 1521  docker container run -d --name dkmysql
+ 1522  docker container run -d --name dkmysql 041315a16183
+ 1523  docker container ls
+ 1524  docker container ls -la
+ 1525  docker container ls
+ 1526  docker container rm --force dk
+ 1527  docker container ls
+ 1528  docker container ls -la
+ 1529  docker container ls
+ 1530  docker container ls -la
+ 1531  docker container ls
+ 1532  docker container rm --force dkmysql 
+ 1533  docker container ls
+ 1534  docker container ls -la
+ 1535  docker container rm praj
+ 1536  docker container ls
+ 1537  docker container ls -la
+ 1538  docker image ls
+ 1539  docker container run -de --name dkmysql 041315a16183
+ 1540  docker container run -dit -e --name dkmysql 041315a16183
+ 1541  docker container run -dit --name dkmysql -p 7777:3306 -e MYSQL_ROOT_PASSWORD=root 041315a16183
+ 1542  docker container ls
+ 1543  docker container exec dkmysql 
+ 1544  docker container exec dkmysql bash
+ 1545  docker container exec -i dkmysql bash
+ 1546  docker container exec -it dkmysql bash
+ 1547  sudo npm install -g yarn nodemon
+ 1548  yarn add express
+ 1549  yarn add cors
+ 1550  mkdir serverside
+ 1551  cd serverside/
+ 1552  ls
+ 1553  code .
+ 1554  ls
+ 1555  docker image ls
+ 1556  docker image build -t myimage b32cc087ff66
+ 1557  docker image build -t myimage .
+ 1558  docker container run -dit --name pra -p 4000:4000 myimage
+ 1559  docker container run -d --name 
+ 1560  docker container ls
+ 1561  docker container run -dit --name mysql -p 7777:3306 -e MYSQL_ROOT_PASSWORD=root 041315a16183
+ 1562  docker container ls
+ 1563  docker container run -dit --name pra -p 4000:4000 myimage
+ 1564  docker container rm myimage
+ 1565  docker container run -dit --name pra -p 4000:4000 myimage
+ 1566  docker container rm --force myimage
+ 1567  docker container rm --force pra
+ 1568  docker container run -dit --name pra -p 4000:4000 myimage
+ 1569  docker container ls
+ 1570  docker container ls -la
+ 1571  docker container start pra
+ 1572  docker container ls
+ 1573  docker container run -itd --name pra -p 4000:4000 myimage
+ 1574  docker container rm --force pra
+ 1575  docker container run -itd --name pra -p 4000:4000 myimage
+ 1576  docker container start pra
+ 1577  docker container ls
+ 1578  docker container ls-a
+ 1579  docker container logs
+ 1580  docker container logs -f pra
+ 1581  docker container rm --force pra
+ 1582  docker image build -t myimage .
+ 1583  docker container run -itd --name pra -p 4000:4000 myimage
+ 1584  docker container ls
+ 1585  docker container logs -f pra
+ 1586  docker image build -t myimage .
+ 1587  docker container run -itd --name pra -p 4000:4000 myimage
+ 1588  docker container rm --force pra
+ 1589  docker container run -itd --name pra -p 4000:4000 myimage
+ 1590  docker container ls
+ 1591  docker container rm --force pra
+ 1592  docker container run -itd --name pra -p 4000:4000 myimage
+ 1593  docker container logs -f pra
+ 1594  docker container rm --force pra
+ 1595  docker image build -t myimage .
+ 1596  docker container logs -f pra
+ 1597  docker container run -itd --name pra -p 4000:4000 myimage
+ 1598  docker container logs -f pra
+ 1599  docker container ls
+ 1600  docker container rm --force pra
+ 1601  docker image build -t myimage .
+ 1602  docker container run -itd --name pra -p 4000:4000 myimage
+ 1603  docker container rm --force pra
+ 1604  docker image build -t myimage .
+ 1605  docker container run -itd --name pra -p 4000:4000 myimage
+ 1606  docker container rm --force pra
+ 1607  docker image build -t myimage .
+ 1608  docker container run -itd --name pra -p 4000:4000 myimage
+ 1609  docker container ls
+ 1610  docker container rm --force pra
+ 1611  docker image build -t myimage .
+ 1612  docker container run -itd --name pra -p 4000:4000 myimage
+ 1613  docker container ls
+ 1614  docker container rm --force pra
+ 1615  docker image build -t myimage .
+ 1616  docker container run -itd --name pra -p 4000:4000 myimage
+ 1617  docker container exec -it mysql bash
+ 1618  sudo npm install -g yarn nodemon
+ 1619  yarn add mysql2
+ 1620  npm install express
+ 1621  yarn add cors
+ 1622  code .
+ 1623  git pull
+ 1624  git clone https://github.com/sunbeam-dac-mar2023/SDM.git~
+ 1625  git clone https://github.com/sunbeam-dac-mar2023/SDM.git
+ 1626  sudo systemctl stop mysql
+ 1627  docker container ls
+ 1628  docker image ls
+ 1629  docker volume ls
+ 1630  docker volume ls -q
+ 1631  $(docker volume ls -q)
+ 1632  docker volume rm --force $(docker volume ls -q)
+ 1633  docker volume ls -q
+ 1634  docker volume ls
+ 1635  docker volume rm --force$(docker volume ls -a -q)
+ 1636  docker volume rm --force$(docker volume ls -la -q)
+ 1637  docker volume rm --force$(docker volume ls -q)
+ 1638  docker volume rm --force $(docker volume ls -q)
+ 1639  docker volume ls
+ 1640  docker volume create mysql-volume
+ 1641  docker image ls
+ 1642  docker container run -dit --name dksql -p 7000/3306 -v mysql-volume : /var/lib/mysql -e MYSQL_ROOT_PASSWORD=root mysql
+ 1643  docker container run -dit --name dksql -p 7000:3306 -v mysql-volume : /var/lib/mysql -e MYSQL_ROOT_PASSWORD=root mysql
+ 1644  docker container run -dit --name dksql -p 7000:3306 -v mysql-volume:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=root mysql
+ 1645  docker container rm --force $(docker container ls -a -q)
+ 1646  docker container run -dit --name dksql -p 7000:3306 -v mysql-volume:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=root 041315a16183
+ 1647  docker container exec -dit dksql
+ 1648  docker container exec -dit dksql bash
+ 1649  docker container exec  dksql bash
+ 1650  docker container exec -it dksql bash
+ 1651  ls
+ 1652  cd serverside/
+ 1653  ls
+ 1654  cd ..
+ 1655  ls
+ 1656  code .
+ 1657  docker image build -t dkimage1 .
+ 1658  docker image build -t dkimage1 
+ 1659  ls
+ 1660  cd serverside/
+ 1661  ls
+ 1662  docker image build -t dkimage1
+ 1663  docker image build -t praimage
+ 1664  docker image build -t praimage .
+ 1665  docker image ls
+ 1666  docker container run -dit --name dkapp -p 4000:4000 praimage 
+ 1667  docker image inspect dkimage
+ 1668  docker image inspect myimage
+ 1669  docker image ls
+ 1670  docker container ls
+ 1671  docker container logs -f dkapp
+ 1672  ls
+ 1673  cd custom_mysql/
+ 1674  ls
+ 1675  docker container ls
+ 1676  docker container rm --force 7ff3accb30bc
+ 1677  docker container run -dit --name dksql -p 3306:3306 -v mysql-volume:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=manager custom_sql
+ 1678  docker image build -t custom_sql .
+ 1679  ls
+ 1680  docker container run -dit --name dksql -p 3306:3306 -v mysql-volume:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=manager custom_sql
+ 1681  sudo systemctl mysqld
+ 1682  sudo systemctl mysql
+ 1683  sudo systemctl MYSQL
+ 1684  sudo systemctl mysqld
+ 1685  sudo lsof -i :3306
+ 1686  sudo kill -9 807
+ 1687  sudo lsof -i :
+ 1688  sudo kill -9 7746
+ 1689  sudo systemctl 7746
+ 1690  sudo systemctl mysqld
+ 1691  sudo systemctl stop mysqld
+ 1692  sudo systemctl stop mysql
+ 1693  sudo lsof -i :3306
+ 1694  docker container run -dit --name dksql -p 3306:3306 -v mysql-volume:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=manager custom_sql
+ 1695  docker container rm --force dksql
+ 1696  docker container run -dit --name dksql -p 3306:3306 -v mysql-volume:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=manager custom_sql
+ 1697  docker container ls
+ 1698  docker container rm --force dkapp
+ 1699  docker container run -dit --name dkapp -p 4000:4000 praimage
+ 1700  docker container ls
+ 1701  docker container rm --force $(docker container -ls -a -q)
+ 1702  docker container rm --force $(docker container ls -a -q)
+ 1703  docker image ls
+ 1704  docker image rm --force custom_sql
+ 1705  docker image rm --force praimage
+ 1706  docker image rm --force <none> myimage
+ 1707  docker image rm --force <none>, myimage
+ 1708  docker image rm --force <none>
+ 1709  docker image rm --force myimage
+ 1710  docker image rm --force dkimage
+ 1711  docker image rm --force node
+ 1712  docker image rm --force mysql
+ 1713  docker image ls
+ 1714  docker image rm --force 22541e7c91ac
+ 1715  docker image rm --force 1702d8aeea29
+ 1716  docker image rm --force b490a5765898
+ 1717  docker image rm --force 23d3fa6f92e7
+ 1718  docker image rm --force 5af5db7e9734
+ 1719  docker image rm --force 73a3fe702c29
+ 1720  docker image rm --force 78dbf2de90c0
+ 1721  docker image ls
+ 1722  docker image rm --force 89a42413fe42
+ 1723  docker image ls
+ 1724  docker image build -t custom_sql .
+ 1725  docker container ls
+ 1726  docker container run -dit --name custom_sql -p 4000:3306 -v mysql-volume:/var/lib/mysql -e MYSQL_ROOT_PASSWORD =root custom_sql
+ 1727  docker container run -dit --name custom_sql -p 3306:3306 -v mysql-volume:/var/lib/mysql -e MYSQL_ROOT_PASSWORD =root custom_sql
+ 1728  docker container run -idt --name custom_sql -p 3306:3306 -v mysql-volume:/var/lib/mysql -e MYSQL_ROOT_PASSWORD =root custom_sql
+ 1729  docker container run -itd --name custom_sql -p 3306:3306 -v mysql-volume : /var/lib/mysql -e MYSQL_ROOT_PASSWORD =root custom_sql
+ 1730  docker container run -itd --name custom_sql -p 3306:3306 -v mysql-volume : /var/lib/mysql -e MYSQL_ROOT_PASSWORD = root custom_sql
+ 1731  docker container run -itd --name custom_sql -p 3306:3306 -v mysql-volume:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=root custom_sql
+ 1732  cd ..
+ 1733  ls
+ 1734  docker image build -t dkapp .
+ 1735  docker container -idt --name dkapp -p 4000:4000 dkapp
+ 1736  docker container -dit --name dkapp -p 4000:4000 dkapp
+ 1737  docker container run -dit --name dkapp -p 4000:4000 dkapp
+ 1738  ls
+ 1739  cd custom_mysql/
+ 1740  ls
+ 1741  docker container ls
+ 1742  docker container exec custom_sql bash
+ 1743  docker container exec -it custom_sql bash
+ 1744  ipconfig
+ 1745  ifconfig
+ 1746  lsof -i :3306
+ 1747  mysql -uroot manager
+ 1748  mysql -uroot -p
+ 1749  sudo systemctl start mysql
+ 1750  docker container ls
+ 1751  docker dontainer stop custom_sql
+ 1752  docker container stop custom_sql
+ 1753  sudo systemctl start mysql
+ 1754  mysql -uroot -p
+ 1755  cd ..
+ 1756  ls
+ 1757  docker image build -t local_sql
+ 1758  docker image build -t local_sql .
+ 1759  docker container rm --force dkapp
+ 1760  docker container run -dit --name dkapp -p 4000:4000 local_sql
+ 1761  docker container rm --force dkapp
+ 1762  docker image build -t local_sql .
+ 1763  docker container run -dit --name dkapp -p 4000:4000 local_sql
+ 1764  ifconfig
+ 1765  docker container rm --force dkapp
+ 1766  docker image build -t local_sql .
+ 1767  docker container run -dit --name dkapp -p 4000:4000 local_sql
+ 1768  docker container rm --force dkapp
+ 1769  docker image build -t local_sql .
+ 1770  docker container run -dit --name dkapp -p 4000:4000 local_sql
+ 1771  docker container ls
+ 1772  docker container rm --force dkapp
+ 1773  docker image build -t local_sql .
+ 1774  docker container run -dit --name dkapp -p 4000:4000 local_sql
+ 1775  docker container ls
+ 1776  docker container rm --force dkapp
+ 1777  docker image build -t local_sql .
+ 1778  docker container run -dit --name dkapp -p 4000:4000 local_sql
+ 1779  docker container ls
+ 1780  docker container rm --force dkapp
+ 1781  docker image build -t local_sql .
+ 1782  docker container run -dit --name dkapp -p 4000:4000 local_sqldoc
+ 1783  ls
+ 1784  docker image tag local_sql dkapp
+ 1785  docker image ls
+ 1786  ls
+ 1787  cd custom_mysql/
+ 1788  ls
+ 1789  docker image build -t custom_sql 
+ 1790  docker image build -t custom_sql .
+ 1791  docker container -idt --name custom_sql -p 3306:3306 -v mysql-volume:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=root custom_sql
+ 1792  docker container run -idt --name custom_sql -p 3306:3306 -v mysql-volume:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=root custom_sql
+ 1793  docker container run idt --name custom_sql -p 3306:3306 -v mysql-volume:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=root custom_sql
+ 1794  docker container run -idt --name custom_sql -p 3306:3306 -v mysql-volume:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=root custom_sql
+ 1795  docker container rm --force custom_sql
+ 1796  docker container run -idt --name custom_sql -p 3306:3306 -v mysql-volume:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=root custom_sql
+ 1797  docker container exec -it custom_sql
+ 1798  docker container exec -it custom_sql bash
+ 1799  docker container ls
+ 1800  docker container rm --force custom_sql
+ 1801  docker image build -t custom_sql .
+ 1802  docker container run -idt --name custom_sql -p 3306:3306 -v mysql-volume:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=root custom_sql
+ 1803  docker container ls
+ 1804  docker container rm --force dkapp
+ 1805  docker container run -dit --name dkapp -p 4000:4000 local_sql
+ 1806  docker image lsA
+ 1807  docker container run -dit --name dkapp -p 4000:4000 dkapp
+ 1808  docker image ls
+ 1809  docker container ls
+ 1810  docker container rm --force custom_sql
+ 1811  docker image build -t custom_sql .
+ 1812  docker container run -idt --name custom_sql -p 3306:3306 -v mysql-volume:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=root custom_sql
+ 1813  docker container ls
+ 1814  docker container rm --force custom_sql
+ 1815  docker container run -idt --name custom_sql -p 3306:3306 -v mysql-volume:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=root 172.18.0.52:5000/mysql
+ 1816  docker container ls
+ 1817  docker container rm --force dkapp
+ 1818  docker container run -dit --name dkapp -p 4000:4000 dkapp
+ 1819  cd ..
+ 1820  ls
+ 1821  docker image build -t dkapp
+ 1822  docker image build -t dkapp .
+ 1823  docker container run -dit --name dkapp -p 4000:4000 dkapp
+ 1824  docker container rm --force dkapp
+ 1825  docker container run -dit --name dkapp -p 4000:4000 dkapp
+ 1826  netstat -tuln | grep 3306
+ 1827  telnet 127.0.0.1 3306
+ 1828  docker container ls
+ 1829  docker container exec -it custom_sql bash
+ 1830  docker container rm --force custom_sql
+ 1831  docker container run -idt --name custom_sql -p 3306:3306 -v mysql-volume:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=root 172.18.0.52:5000/mysql
+ 1832  docker container exec custom_sql bash
+ 1833  docker container exec -it custom_sql bash
+ 1834  docker container ls
+ 1835  docker run -d --name custom_sql -p 3306:3306 mysql:8.0
+ 1836  docker run -d --name custom_sql -p 3306:3306 041315a16183
+ 1837  ls
+ 1838  docker container rm --force custom_sql
+ 1839  docker container run -idt --name custom_sql -p 3306:3306 -v mysql-volume:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=root 172.18.0.52:5000/mysql
+ 1840  docker container rm --force dkapp
+ 1841  docker image build -t dkapp .
+ 1842  docker container run -dit --name dkapp -p 4000:4000 dkapp
+ 1843  docker container rm --force dkapp
+ 1844  docker image build -t dkapp .
+ 1845  docker container run -dit --name dkapp -p 4000:4000 dkapp
+ 1846  docker container rm --force dkapp
+ 1847  docker image build -t dkapp .
+ 1848  docker container run -dit --name dkapp -p 4000:4000 dkapp
+ 1849  docker info
+ 1850  docker swarm init 
+ 1851  docker node ls
+ 1852  docker service ls
+ 1853  docker service create --name dkservice 
+ 1854  docker image ls
+ 1855  docker service create --name dkservice d140b777a247
+ 1856  docker service ls
+ 1857  docker service rm --force dkservice
+ 1858  docker service rm  dkservice
+ 1859  docker service create --name dkservice --replicas 100 
+ 1860  watch -n 1 docker service ls
+ 1861  docker service create --name dkservice --replicas 100 d140b777a247
+ 1862  docker image ls
+ 1863  docker service create --name dkservice --replicas 10 172.18.0.52:5000/httpd 
+ 1864  docker service rm dkservice
+ 1865  docker service create --name dkservice --replicas 10 172.18.0.52:5000/httpd 
+ 1866  docker service scale dkservice 5
+ 1867  docker service scale dkservice=5
+ 1868  ifconfig
+ 1869  docker container rm $(docker service ls -a -q)
+ 1870  docker container rm --force $(docker service ls -a -q)
+ 1871  docker container rm --force $(docker container ls -a -q)
+ 1872  apt install terminator
+ 1873  sudo apt install terminator
+ 1874  sudo apt-get update
+ 1875  sudo add-apt-repository ppa:gnome-terminator
+ 1876  sudo apt-get install terminator
+ 1877  sudo add-apt-repository ppa:gnome-terminator/nightly
+ 1878  sudo apt-get update
+ 1879  sudo apt-get install terminator
+ 1880  watch -n 1 docker service ls
+ 1881  docker container ls
+ 1882  watch -n 1 docker service ls
+ 1883  docker container ls
+ 1884  watch -n 1 docker service ls
+ 1885  vim ~/ .bashrc
+ 1886  code .
+ 1887  minikube start
+ 1888  minikube dashboard
+ 1889  minikube start
+ 1890  minikube dashboard
+ 1891  kubectl get node
+ 1892  sudo apt-get install kubectl
+ 1893  kubectl get node
+ 1894  sudo snap install kubectl
+ 1895  sudo snap install kubectl --classic
+ 1896  kubectl get node
+ 1897  kubectl get pod
+ 1898  ls
+ 1899  code .
+ 1900  ls
+ 1901  kubectl create -f pod.yaml
+ 1902  curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
+ 1903  sudo install minikube-linux-amd64 /usr/local/bin/minikube
+ 1904  minikube -v
+ 1905  curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
+ 1906  sudo install minikube-linux-amd64 /usr/local/bin/minikube
+ 1907  kubectl create -f <yaml file name>
+ 1908  ls
+ 1909  d10
+ 1910  mkdir exam_practice
+ 1911  cd 
+ 1912  cd eclipse-workspace/
+ 1913  ls
+ 1914  cd ..
+ 1915  ls
+ 1916  git clone https://github.com/sunbeam-dac-mar2023/SDM.git
+ 1917  cd exam_practice/
+ 1918  ls
+ 1919  mkdir git
+ 1920  ls
+ 1921  cd git/
+ 1922  ls
+ 1923  git init
+ 1924  git config  --global user.name="prajyot"
+ 1925  git config  --global user.name "prajyot"
+ 1926  git config  --global --list
+ 1927  git status -s
+ 1928  code .
+ 1929  ls
+ 1930  git status -s
+ 1931  git add f1.js 
+ 1932  git status -s
+ 1933  git commit f1.js 
+ 1934  ls
+ 1935  git status -s
+ 1936  git checkout 
+ 1937  git checkout f1.js
+ 1938  git reset
+ 1939  git status -s
+ 1940  git add f1.js 
+ 1941  ls
+ 1942  git status -s
+ 1943  git add f1.js 
+ 1944  git reset
+ 1945  git status -s
+ 1946  git add f1.js 
+ 1947  git status -s
+ 1948  git reset
+ 1949  git status -s
+ 1950  git reset hard
+ 1951  git reset -hard
+ 1952  git reset --hard
+ 1953  git log
+ 1954  git branch
+ 1955  git branch b1
+ 1956  git branch
+ 1957  git checkout b1
+ 1958  git branch
+ 1959  git add *
+ 1960  git commit 
+ 1961  git checkout duskoder
+ 1962  git checkout b1
+ 1963  git branch
+ 1964  git checkout duskoder 
+ 1965  git merge b1
+ 1966  git log
+ 1967  git checkout b1 
+ 1968  git checkout duskoder 
+ 1969  git status -s
+ 1970  git branch
+ 1971  git add f1.js 
+ 1972  git commit
+ 1973  git checkout b1 
+ 1974  git checkout duskoder 
+ 1975  git checkout b1
+ 1976  git add f1.js 
+ 1977  git checkout b1
+ 1978  git checkout duskoder 
+ 1979  git commit
+ 1980  git status -s
+ 1981  docker service create --name myapp --replicas 5 -p 9999:80 httpd
+ 1982  docker container logs -f q4
+ 1983  docker container logs -f q4eq1h5v1f995whwjs4ak5bmw
+ 1984  docker servie logs -f q4eq1h5v1f995whwjs4ak5bmw
+ 1985  docker service logs -f q4eq1h5v1f995whwjs4ak5bmw
+ 1986  docker container ls
+ 1987  docker service logs -f myapp.2.7bc79r3690uny6ic5zrk45q06
+ 1988  docker container logs -f myapp.2.7bc79r3690uny6ic5zrk45q06
+ 1989  git status -s
+ 1990  git add .
+ 1991  git branch
+ 1992  git commit -m 'new'
+ 1993  git branch b1
+ 1994  git checkout b1
+ 1995  git add .
+ 1996  git commit -m 'new on b1'
+ 1997  git checkout duskoder
+ 1998  git merge b1
+ 1999  git status -s
+ 2000  sudo npm install -g yarn nodemon
+ 2001  yarn add cors
+ 2002  npm install cors
+ 2003  npm install express
+ 2004  npm install mysql2 
+ 2005  yarn add express cors mysql2
+ 2006  code .
+ 2007  mysql -uroot -p root
+ 2008  mysql -uroot -p
+ 2009  docker image ls
+ 2010  docker container run -dit --name
+ 2011  docker container run -dit --namels
+ 2012  ls
+ 2013  docker image build -t myimage
+ 2014  docker image build -t myimage .
+ 2015  docker container run -dit --name myapp -p 4000:4000 myimage
+ 2016  docker container rm --force myapp
+ 2017  docker image build -t myimage .
+ 2018  docker container run -dit --name myapp -p 4000:4000 myimage
+ 2019  ifconfig
+ 2020  docker container rm --force myapp
+ 2021  docker image build -t myimage .
+ 2022  docker container run -dit --name myapp -p 4000:4000 myimage
+ 2023  docker image ls
+ 2024  docker container ls
+ 2025  docker volume create mysql-volume
+ 2026  docker container run -dit --name dksql -p 3306:3306 -v mysql-volume:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=root 041315a16183
+ 2027  sudo systemctl stop mysql
+ 2028  docker container run -dit --name dksql -p 3306:3306 -v mysql-volume:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=root 041315a16183
+ 2029  docker container rm --force dksql
+ 2030  docker container run -dit --name dksql -p 3306:3306 -v mysql-volume:/var/lib/mysql -e MYSQL_ROOT_PASSWORD=root 041315a16183
+ 2031  docker container exec -it dksql bash
+ 2032  docker container ls
+ 2033  git container logs -f myapp
+ 2034  docker container logs -f myapp
+ 2035  docker container rm --force myapp
+ 2036  docker container run -dit --name myapp -p 4000:4000 myimage
+ 2037  docker image build -t myimage .
+ 2038  docker container run -dit --name myapp -p 4000:4000 myimage
+ 2039  docker container rm --force myapp
+ 2040  docker container run -dit --name myapp -p 4000:4000 myimage
+ 2041  docker container exec -it dksql bash
+ 2042  docker container rm --force myapp
+ 2043  docker image build -t myimage .
+ 2044  docker container run -dit --name myapp -p 4000:4000 myimage
+ 2045  docker container rm --force myapp
+ 2046  docker image build -t myimage .
+ 2047  docker container run -dit --name myapp -p 4000:4000 myimage
+ 2048  docker container rm --force myapp
+ 2049  docker image build -t myimage .
+ 2050  docker container run -dit --name myapp -p 4000:4000 myimage
+ 2051  docker container rm --force myapp
+ 2052  docker image build -t myimage .
+ 2053  docker container run -dit --name myapp -p 4000:4000 myimage
+ 2054  log
+ 2055  log ls
+ 2056  cat log.txt
+ 2057  histoey
+ 2058  history
+ 2059  history | log.txt
+ 2060  history > log.txt
